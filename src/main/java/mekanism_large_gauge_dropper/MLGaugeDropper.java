@@ -1,6 +1,6 @@
-package mekanism_empowered_gauge_dropper;
+package mekanism_large_gauge_dropper;
 
-import mekanism_empowered_gauge_dropper.registries.MLGDItems;
+import mekanism_large_gauge_dropper.registries.MLGDItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.server.ServerStartingEvent;

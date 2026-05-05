@@ -1,4 +1,4 @@
-package mekanism_empowered_gauge_dropper.item;
+package mekanism_large_gauge_dropper.item;
 
 import java.util.List;
 
